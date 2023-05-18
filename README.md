@@ -3,7 +3,7 @@
 
 - The commands are as follows:
   - Image file name: The file name of an image (including spaces) becomes a command, and when called, the image source updates accordingly
-  - 'hue(number)' and 'h(number)': These commands change the hue of the currently displayed image, which in OBS can be varied from -180 to 180. 'h(number) is a simpler way to call the command.
+  - 'hue(number)' and 'h(number)': These commands change the hue of the currently displayed image, which in OBS can be varied from -180 to 180. 'h(number)' is a simpler way to call the command.
 
 ### You'll need:
 - Basic nstall of Node.js 
