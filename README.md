@@ -35,7 +35,7 @@
 - navigate to the folder you put the JS file in
 - enter `npm install tmi.js` and `npm install obs-websocket-js` to install the libraries
 
-###how to use
+### how to use
 
 -Put the .jpgs you would like to use in a folder, and copy it's path
 -Put the path in line 34
