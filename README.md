@@ -6,15 +6,15 @@
   - 'hue(number)' and 'h(number)': These commands change the hue of the currently displayed image, which in OBS can be varied from -180 to 180. 'h(number)' is a simpler way to call the command.
 
 ### You'll need:
-- Basic nstall of Node.js 
+- Basic install of LTS Node.js 18.16.0 (https://nodejs.org/dist/v18.16.0/node-v18.16.0-x64.msi)
 - A dedicated phone and email verified twitch account for the bot
-- Install of OBS with v5 websocket plugin (if you have latest, that is right)
+- Install of OBS with v5 websocket plugin
 
 ### Set up
 
 - After making the bot account, verify it's phone number and email.
-- Go to https://twitchapps.com/tmi and sign in, authorize the service
-- Note the OAuth token, keep it private
+- Go to https://twitchapps.com/tmi, sign in and authorize the service
+- Note the OAuth token generated, keep it private
 
 - In OBS, navigate to 'Tools', click 'WebSocket Server Settings'
 - In the 'Plugin Settings' section, tick 'Enable WebSocket Server'
@@ -29,7 +29,7 @@
 - In line 8 put the OAuth token you got earlier beside the 'oath:'
 - In OBS, navigate to 'Tools', click 'WebSocket Server Settings'
 - In the 'Server Settings' section, click on show 'Connect Info'
-- In line 25, replace the ip, port and password with those in the 'Connect Info' pane
+- In line 25, replace the IP address, port and password with those in the 'Connect Info' pane
 
 - Open the node.js command prompt
 - Navigate to the folder you put the JS file in
