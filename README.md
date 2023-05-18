@@ -40,7 +40,7 @@
 -Put the .jpgs you would like to use in a folder, and copy it's path
 -Put the path in line 34
 -For all the images in the folder, enter the exact file name excluding the .jpg descriptor in the command variables
-- kxfdjghsda;ijgsdkjfhg;sdjfgh;kjfdg;khdsguiotrhyosd;fng
+- NOT YET COMPLETE, NEED TO ADD DETAILS ON SETTING SOURCE AND FILTER NAMES
 
 - Now to run the bot, open the node.js command prompt and navigate to the directory containing the JS file
 - Host it by entering `node obsticles.js`
