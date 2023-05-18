@@ -5,12 +5,12 @@
 - image file name: The file name of an image (including spaces) becomes a command, and when called, the image source updates accordingly
 - 'hue(number)' and 'h(number)': These commands change the hue of the currently displayed image, which in OBS can be varied from -180 to 180. 'h(number) is a simpler way to call the command.
 
-###You'll need:
+### You'll need:
 - Install of Node.js 
 - A dedicated phone and email verified twitch account for the bot
 - Install of OBS with v5 websocket plugin (if you have latest, that is right)
 
-###set up
+### set up
 
 - After making the bot account, verify it's phone number and email.
 - Go to https://twitchapps.com/tmi and sign in, authorize the service
