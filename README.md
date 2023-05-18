@@ -2,8 +2,8 @@
 ## simple obs and tmi interface to change images in a source and hue shift it
 
 - The commands are as follows:
--- image file name: The file name of an image (including spaces) becomes a command, and when called, the image source updates accordingly
--- 'hue(number)' and 'h(number)': These commands change the hue of the currently displayed image, which in OBS can be varied from -180 to 180. 'h(number) is a simpler way to call the command.
+  - image file name: The file name of an image (including spaces) becomes a command, and when called, the image source updates accordingly
+  - 'hue(number)' and 'h(number)': These commands change the hue of the currently displayed image, which in OBS can be varied from -180 to 180. 'h(number) is a simpler way to call the command.
 
 ### You'll need:
 - Install of Node.js 
