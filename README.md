@@ -37,10 +37,10 @@
 
 ### How to use
 
--Put the .jpgs you would like to use in a folder, and copy it's path
--Put the path in line 34
--For all the images in the folder, enter the exact file name excluding the .jpg descriptor in the command variables
--Put the names of the image source, and hue filter you are applying to it in the input and filter name parameters (use CTRL + F to find each)
+- Put the .jpgs you would like to use in a folder, and copy it's path
+- Put the path in line 34
+- For all the images in the folder, enter the exact file name excluding the .jpg descriptor in the command variables
+- Put the names of the image source, and hue filter you are applying to it in the input and filter name parameters (use CTRL + F to find each)
 
 - Now to run the bot, open the node.js command prompt and navigate to the directory containing the JS file
 - Host it by entering `node obsticles.js`
